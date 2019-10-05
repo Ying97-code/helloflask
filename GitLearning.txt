@@ -1,3 +1,3 @@
 '''这是Xiaoying Liu按照CSDN学习Git自主另外添加文档的示例文档
-用diff命令查看改变
+用diff命令查看改变，第二次尝试
 '''
